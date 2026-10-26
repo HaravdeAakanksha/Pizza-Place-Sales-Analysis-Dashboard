@@ -74,13 +74,13 @@ The dashboard contains four pages, each focusing on a different aspect of sales 
 
 Provides a summary of overall sales performance using key metrics and high-level comparisons.
 
-![Pizza Sales Dashboard - Overview](screenshots/overview.png)
+![Pizza Sales Dashboard - Overview](screenshots/Overview.png)
 
 ### 2. Trend & Performance
 
 Explores monthly revenue trends, month-over-month changes, sales by day type, and category-level performance.
 
-![Pizza Sales Dashboard - Trend and Performance](screenshots/trend-performance.png)
+![Pizza Sales Dashboard - Trend and Performance](screenshots/trends-performance.png)
 
 ### 3. Product Performance
 
